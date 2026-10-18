@@ -31,7 +31,7 @@ I also enjoy troubleshooting: tracing logs, isolating dependencies, checking con
 
 ![Missions](assets/missions.svg)
 
-### Engineering project roadmap
+### Projects
 
 
 | PROJECT | MISSION | CORE STACK |
