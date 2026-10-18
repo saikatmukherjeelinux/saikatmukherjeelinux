@@ -33,7 +33,6 @@ I also enjoy troubleshooting: tracing logs, isolating dependencies, checking con
 
 ### Engineering project roadmap
 
-> **Note:** These are proposed builds and learning projects. Replace roadmap entries with repository links as you publish them.
 
 | PROJECT | MISSION | CORE STACK |
 |:--|:--|:--|
